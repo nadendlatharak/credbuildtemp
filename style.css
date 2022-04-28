@@ -22,7 +22,7 @@
 .navbar div ul {
     position: relative;
     margin-left:1600px;
-    margin-top:-100px;
+    margin-top:-120px;
 }
 
 .navbar div ul li{
@@ -105,19 +105,15 @@
 
 
 .imagesection{
-    margin-top:-1250px;
+    margin-top:-1240px;
     position:relative;
     margin-right:2px;
     border:0px solid black;
     float:right;
     width:2500px;
     height:1500px;   
-    background-image: url(/mockup/mockup.jpg);
-                      
+    background-image: url(mockup/mockup.jpg);
     background-attachment:local;
     background-size:cover;
     background-repeat: no-repeat;
-
-
-    
 }
